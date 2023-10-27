@@ -1,0 +1,3 @@
+[submodule "SOAP-Service"]
+	path = SOAP-Service
+	url = https://github.com/AlphaThrone/SOAP-Service
