@@ -1,3 +1,6 @@
 [submodule "SOAP-Service"]
 	path = SOAP-Service
 	url = https://github.com/AlphaThrone/SOAP-Service
+[submodule "PHP-App"]
+	path = PHP-App
+	url = https://github.com/AlphaThrone/PHP-App
