@@ -7,3 +7,6 @@
 [submodule "client-spa"]
 	path = client-spa
 	url = https://github.com/AlphaThrone/client-spa
+[submodule "rest-service"]
+	path = rest-service
+	url = https://github.com/AlphaThrone/rest-service
