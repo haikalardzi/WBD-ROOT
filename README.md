@@ -23,11 +23,11 @@ vendor: Amazon Corretto
 6. Done
 
 ### client-spa
-Open terminal and type these
+Open terminal in this folder and type these
 1. ```cd client-spa```
 2. ```npm install```
 
 ### rest-service
-Open terminal and type these
+Open terminal in this folder and type these
 1. ```cd rest-service```
 2. ```npm install```
