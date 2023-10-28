@@ -4,3 +4,6 @@
 [submodule "PHP-App"]
 	path = PHP-App
 	url = https://github.com/AlphaThrone/PHP-App
+[submodule "client-spa"]
+	path = client-spa
+	url = https://github.com/AlphaThrone/client-spa
